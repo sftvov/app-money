@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import CeilName from './components/ceilName';
-import CeilPlus from './components/ceilPlus';
-import CeilPlan from './components/ceilPlan';
-import CeilNeeded from './components/ceilNeeded';
-import CeilWasted from './components/ceilWasted';
-import CeilTotalWasted from './components/ceilTotalWasted';
-import CeilTotalNeeded from './components/ceilTotalNeeded';
+import CeilName from './components/ceils/ceilName';
+import CeilPlus from './components/ceils/ceilPlus';
+import CeilPlan from './components/ceils/ceilPlan';
+import CeilNeeded from './components/ceils/ceilNeeded';
+import CeilWasted from './components/ceils/ceilWasted';
+import CeilTotalWasted from './components/ceils/ceilTotalWasted';
+import CeilTotalNeeded from './components/ceils/ceilTotalNeeded';
 import Buttons from './components/buttons';
 
 function App() {
